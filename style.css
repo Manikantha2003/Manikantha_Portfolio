@@ -180,7 +180,7 @@ nav h1 {
   font-size: 2.6rem;
   margin-bottom: 12px;
   font-weight: 700;
-  color: #00c8a6;
+  color: #10e9c5;
 }
 
 .hero h1 span {
@@ -190,10 +190,10 @@ nav h1 {
 }
 
 .hero p {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   font-weight: 500;
   margin-bottom: 20px;
-  color: #c7d1db;
+  color: #218bf5;
 }
 
 .btn {
@@ -230,7 +230,7 @@ nav h1 {
 .about p {
   font-size: 1.1rem;
   line-height: 1.6;
-  color: #c7d1db;
+  color: #dfe7f0;
 }
 
 .tech-stack {
@@ -243,7 +243,7 @@ nav h1 {
 .tech-stack h2 {
   font-size: 2.4rem;
   margin-bottom: 30px;
-  color: #61a5c2; 
+  color: #00c8a6; 
 }
 
 .icons {
@@ -271,17 +271,17 @@ nav h1 {
 .projects h2 {
   font-size: 2.4rem;      /* same as tech-stack */
   margin-bottom: 30px;    /* same as tech-stack */
-  color: #89c2d9;        /* keep your existing color */
+  color: #00c8a6;        /* keep your existing color */
 }
 
 .project-card h3 {
-  color: #61a5c2;  /* Medium steel blue */
+  color: #0dd370;  /* Medium steel blue */
   font-size: 1.3rem; /* increased size */
   margin-bottom: 10px;
 }
 
 .project-card p {
-  color: #a7c7e7;  /* Light pastel blue */
+  color: #d8e4ec;  /* Light pastel blue */
 }
 
 .project-card a {
